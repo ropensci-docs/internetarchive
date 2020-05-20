@@ -1,0 +1,10 @@
+pandoc: '2.5'
+pkgdown: 1.6.1
+pkgdown_sha: ~
+articles:
+  internet-archive: internet-archive.html
+last_built: 2021-07-08T09:30Z
+urls:
+  reference: https://docs.ropensci.org/internetarchive/reference
+  article: https://docs.ropensci.org/internetarchive/articles
+
