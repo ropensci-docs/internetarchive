@@ -1,0 +1,12 @@
+{
+  "commit": {
+    "commit": "bcf66c3cf2d61ce6c260dbe241bed61a9f500aa5",
+    "author": "mark padgham <mark.padgham@email.com>",
+    "time": "2020-05-20 02:48:26",
+    "files": 1,
+    "merge": false,
+    "message": "Add archive.org site to description\n\nThis will allow the data source to be automatically document for rOpenSci's database"
+  },
+  "repo": "https://github.com/ropensci/internetarchive",
+  "pkg": "internetarchive"
+}
