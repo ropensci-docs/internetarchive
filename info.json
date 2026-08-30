@@ -1,0 +1,13 @@
+{
+  "commit": {
+    "commit": "ce862d52c1541b670da5e991799b533b0c3b87f0",
+    "author": "Ahmet Akkoç <themadprogramer@gmail.com>",
+    "time": "2024-12-02T09:32:45Z",
+    "files": 1,
+    "merge": true,
+    "message": "Merge pull request #18 from ropensci/Update-Description\n\nUpdated DESCRIPTION: Add Maintainer"
+  },
+  "repo": "https://github.com/ropensci/internetarchive",
+  "pkg": "internetarchive",
+  "time": "2026-08-30T07:28:02Z"
+}
